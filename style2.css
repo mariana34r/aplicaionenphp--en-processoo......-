@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://img.freepik.com/foto-gratis/habitacion-vacia-sillas-escritorios_23-2149008873.jpg");
+    margin: 0;
+    padding: 0;
+    width: 100vw;  
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
